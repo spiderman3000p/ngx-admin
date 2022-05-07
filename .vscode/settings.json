@@ -1,4 +1,6 @@
 {
-    "typescript.tsdk": "./node_modules/typescript/lib",
-    "tslint.enable": false
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "tslint.enable": false,
+  "appService.defaultWebAppToDeploy": "/subscriptions/ddd2762a-585f-43a1-95ef-c6a2e0843905/resourceGroups/ngx-admin-1/providers/Microsoft.Web/sites/quick-services",
+  "appService.deploySubpath": "dist"
 }
